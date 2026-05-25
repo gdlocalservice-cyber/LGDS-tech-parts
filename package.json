@@ -1,0 +1,12 @@
+{
+  "name": "lgds-parts-calculator",
+  "version": "3.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "scripts": {
+    "build": "echo 'Static app - no build needed'"
+  }
+}
